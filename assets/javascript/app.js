@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['awesome cheats', 'sexy sources', 'really cheap cheats', 'weed addict', 'the one and only'];
+  brandDescription = ['Bitch ass niggas', '.9yz coded this peice of shit', 'really cheap Leaks', 'Vulse is a porn addict', 'Nine Circles of Hell on TOP', 'the one and only Nine Circles of Hell'];
 
   iconChanger = (urls, delay) => {
     if (!urls) return;
