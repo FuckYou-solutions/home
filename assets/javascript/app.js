@@ -12,7 +12,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['Bitch ass niggas', '.9yz coded this peice of shit', 'We Racist', 'Vulse is a porn addict', 'imma kms', 'the one and only'];
+  brandDescription = ['Bitch ass niggas', '.9yz coded this peice of shit', 'We Racist', 'on my life 90% pasted free cheats', 'imma kms', 'the one and only'];
 
   iconChanger = (urls, delay) => {
     if (!urls) return;
